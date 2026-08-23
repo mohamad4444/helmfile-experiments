@@ -1,4 +1,7 @@
-# DevOps Helmfile Weird Values
+# DevOps Helmfile Experiments
+
+## 🤖 AI Usage Disclosure
+This project was developed entirely by hand in late 2025. AI was introduced exclusively at the end of the project (starting from commit `a70e3e6` on Mar 10, 2026) to refactor the project structure and write this comprehensive documentation.
 
 This repository demonstrates a clean, intuitive pattern for handling and deep-merging values across multiple environments in `helmfile`.
 
